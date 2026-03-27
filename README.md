@@ -8,3 +8,4 @@ UC-6 Reservation Confirmation & Room Allocation
 UC-7 Add-On Service Selection
 UC-8 Booking History & Reporting  
 UC-9 Error Handling & Validation  
+UC-10 Booking Cancellation & Inventory Rollback
